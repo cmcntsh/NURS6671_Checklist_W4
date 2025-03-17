@@ -66,7 +66,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | What are the independent (or predictor) and dependent (or outcome) variables for the test, and what is the level of measurement for each one? |
 | <br><br><br><br> |
 | $\textcolor{red}{Add \ this \ section:}$ NHST steps: |
-| These steps should be follow for each statistical test conducted as part of a study. |
+| These steps should be followed for each statistical test conducted as part of a study. |
 | $\textcolor{red}{Add \ this \ section:}$ 1. State the null and alternative hypothesis. |
 | <br><br><br><br> |
 | $\textcolor{red}{Add \ this \ section:}$ 2. Establish the criteria for rejection (alpha level). |
