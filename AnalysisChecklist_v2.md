@@ -10,7 +10,7 @@ What is the source of the data youâ€™ve gathered? Is the mechanism by which youâ
 <tr>
 </tr>
 <tr>
-    <td>$\textcolor{red}{Add \ this \ section:}$ What is the general purpose of this study/analysis? (exploration, hypothesis confirmation, quality improvement, learning, other?) What are the implications for how test-wise and study-wise error rates, inferences from tests, and generalizability of results are handled?</td>
+    <td>What is the general purpose of this study/analysis? (exploration, hypothesis confirmation, quality improvement, learning, other?) What are the implications for how test-wise and study-wise error rates, inferences from tests, and generalizability of results are handled?</td>
 </tr>
 <tr>
     <td><br><br><br><br></td>
