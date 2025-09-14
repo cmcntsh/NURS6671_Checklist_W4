@@ -71,7 +71,7 @@ What is the source of the data youâ€™ve gathered? Is the mechanism by which youâ
     <td><br><br><br><br></td>
 </tr>
 <tr>
-    <td>Describe any additional data manipulation needed before analysis. (Do any variables need to be reverse-coded? Do summary scores for instruments need to be calculated? Do z-scores need to be calculated? Are there any other data transformations that need to be done to help meet statistical assumptions?)?</td>
+    <td>Describe any additional data manipulation needed before analysis. (Do any variables need to be reverse-coded? Do summary scores for instruments need to be calculated? Do z-scores need to be calculated? Are there any other data transformations that need to be done to help meet statistical assumptions?)</td>
 </tr>
 <tr>
     <td><br><br><br><br></td>
